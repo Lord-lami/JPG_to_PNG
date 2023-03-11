@@ -1,5 +1,5 @@
 # JPG_to_PNG
-Convert JPG images to PNG images
+# This is a command line program that Converts JPG images to PNG images
 # Pass the path to the folder with jpegs and the folder you want the PNGs to be in respectively
 # Like so
 python JPG_to_PNG.py jpg_folder_path png_folder_path
